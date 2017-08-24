@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cut in Line</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="esunbank_api_branch">http://140.113.72.19/esunbranch/branch.php</string>
+    <string name="name">max</string>
+    <string name="pwsd">ss</string>
+    <string name="bluemix_max">http://pickticket.mybluemix.net/</string>
+    <string name="bluemix_wan">http://reserve.mybluemix.net/</string>
+
+
+</resources>

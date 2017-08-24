@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:orientation="vertical"
+    android:paddingBottom="4dp"
+    android:paddingTop="4dp"
+    android:id="@+id/branch_ll">
+
+    <TextView
+        android:id="@+id/branch_name_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="16dp"
+        android:text="Branch"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/branch_location_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/branch_name_tv"
+        android:layout_marginLeft="16dp"
+        android:text="Branch"
+        android:textSize="20sp" />
+
+</LinearLayout>
